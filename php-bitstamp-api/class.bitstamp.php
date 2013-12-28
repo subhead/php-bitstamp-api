@@ -3,7 +3,7 @@
 /**
  * @package Bitstamp API
  * @author subhead <subhead@gmail.com>, Forked from willmoss @ https://bxmediaus.com
- * @version 0.0.1
+ * @version 0.1
  * @access public
  * @license http://www.opensource.org/licenses/LGPL-3.0
  */
